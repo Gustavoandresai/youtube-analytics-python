@@ -11,7 +11,7 @@ Dashboard built with Streamlit that allows the user to analyze YouTube videos
 [![Product Name Screen Shot][product-screenshot]](portfolio-9.jpg)
 
 
-[![Product Name Screen Shot][product-screenshot]](portfolio-3.jpg)
+[![Product Name Screen Shot][product-screenshot2]](portfolio-3.jpg)
 
 This project is a YouTube analytics dashboard built with Python and Streamlit. It allows you to analyze trending YouTube videos by entering a search term and the number of results you want to analyze. You can see the view count, keywords, and other metrics for each video in the search, and generate charts that show which words are used most frequently in the video titles and tags. This dashboard is a useful tool for content creators, marketers, and data analysts who want to gain insights into what makes a video popular and engaging.
 
@@ -72,4 +72,5 @@ Project Link: [https://github.com/Gustavoandresai/youtube-analytics-python](http
 [license-url]: https://github.com/Gustavoandresai/yt/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gustavoandresbarreto
+[product-screenshot2]: portfolio-3.jpg
 [product-screenshot]: portfolio-9.jpg
